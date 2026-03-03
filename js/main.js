@@ -5,7 +5,7 @@ const channels = [
     { id: '-cR-0Ggi3B4', name: 'Licenças e Liberdades: é importante saber' },
     { id: 'ZhLjvy23rrs', name: 'Instalando Linux Mint' },
     { id: 'EgPxsHGxspA', name: 'Pendrive Linux com Etcher' },
-    { id: 'v2nCgGSVCeE', name: 'Conhecendo o Ambiente do Linux Mint' },
+    { id: '7KsdRHwO2Sk', name: 'Conhecendo o Ambiente do Linux Mint' },
     { id: 'L79u8csXwBU', name: 'Instalação básica de programas no Linux' },
     { id: 'HlbrYQqyXpg', name: 'Instalação avançada de programas no Linux' },
     { id: 'mgs92GtkQCE', name: 'Terminal no Linux - Introdução' },
